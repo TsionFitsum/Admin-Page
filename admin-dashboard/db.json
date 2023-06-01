@@ -1,0 +1,22 @@
+{
+  "bus": [
+    {
+      "RouteNo": "45",
+      "stationname": "33",
+      "id": "PRro7XY"
+    },
+    {
+      "id": "MjM6zQS",
+      "plateNo": "B35678",
+      "routee": "33"
+    },
+    {
+      "No": "1",
+      "stationname": "2",
+      "longitude": "3",
+      "latitude": "4",
+      "routes": "5",
+      "id": "IfQXjU7"
+    }
+  ]
+}

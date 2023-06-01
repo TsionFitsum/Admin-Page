@@ -1,0 +1,11 @@
+{
+  "stations": [
+    {
+      "No": 1,
+      "stationname": "4kilo",
+      "longitude": "6389",
+      "latitude": "4564565",
+      "routes": "64,33"
+    }
+  ]
+}
